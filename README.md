@@ -4,8 +4,8 @@ This repository contains the codes developed during the C Programming Course at 
 in understanding the fundamentals of pgramming in the C language.  
 
 ## Repository Structure
-- /Lecture: Contains the codes developed during lectures.
-- /Exercises: Here are exercise proposed throughout the course.
+- <strong>Lecture:</strong> Contains the codes developed during lectures.
+- <strong>Exercises:</strong> Here are exercise proposed throughout the course.
 
 ## How to Contribute 
 if you are a student of the course and would like to contribute to the respository, feel free to submit your exercise solutions, corrections, or improvements to the codes developed
