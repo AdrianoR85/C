@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <stdlib.h>
 int menu() {
   int option;
   printf("\nAdd a new grades for a new student?");
@@ -53,9 +53,9 @@ int main() {
       opt = menu();
       switch (opt) {
         case 0:
-          printf("\nFinishing....\n\n");
+          // printf("\nFinishing....\n\n");
           next = 0;
-          break;
+          exit(999);
         case 1:
           counter += 1;
           grades = studentsGrades(counter);
